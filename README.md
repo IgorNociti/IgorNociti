@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=591594&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8D52BD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'+am+Igor+Pereira+Nociti;I'+am+from+São+Paulo,+SP;I+study+engineering+of+Software+at+Fiap;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8D52BD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'+am+Igor+Pereira+Nociti;I'+am+from+São+Paulo,+SP;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorNociti&show_icons=true&count_private=true&hide_border=true&title_color=8D52BD&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Igor P. Nociti github stats" /> 
